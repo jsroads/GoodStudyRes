@@ -136,3 +136,7 @@ https://github.com/weishuluo/creator_wechat_rank_demo
 ### Javascript in one pic
 
 https://github.com/coodict/javascript-in-one-pic
+
+
+###Cocos-Preview
+https://github.com/kaxifakl/cocos-preview
